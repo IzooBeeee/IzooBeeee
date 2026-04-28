@@ -27,11 +27,16 @@
 
 ```typescript
 const VanNhan = {
-  name:     "Nguyễn Văn Nhân",
-  alias:    "IzooBeeee 🐝",
-  based_in: "Việt Nam 🇻🇳",
-  role:     "Full-Stack Developer",
-  mindset:  ["Ship it", "Learn it", "Own it"],
+  name:       "Nguyễn Văn Nhân",
+  alias:      "IzooBeeee 🐝",
+  based_in:   "Việt Nam 🇻🇳",
+  role:       "Full-Stack Developer",
+  education:  "🎓 Đại học Duy Tân (Duy Tan University)",
+  mindset:    ["Ship it", "Learn it", "Own it"],
+
+  awards: [
+    "🥉 Giải 3 — Cuộc thi Phần mềm Nguồn mở",
+  ],
 
   currently: {
     building:  "🍔 FoodBee — Food Delivery App",
@@ -120,6 +125,27 @@ const VanNhan = {
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IzooBeeee&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🥇 Awards & Recognition
+
+<div align="center">
+
+| 🏅 Award | 📋 Detail | 🔗 Project |
+|:---:|:---|:---:|
+| 🥉 **Giải Ba** | Cuộc thi Phần mềm Nguồn mở — *Cấp Trường* | [![CityResQ360](https://img.shields.io/badge/CityResQ360-0d0d0d?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/MNM-DTU-DZ/CityResQ360-DTUDZ) |
+| 🎓 **Education** | Đại học Duy Tân — *Duy Tan University* | [![DTU](https://img.shields.io/badge/Duy%20Tan%20University-0d0d0d?style=for-the-badge&logo=academia&logoColor=a78bfa)](https://duytan.edu.vn) |
+
+</div>
+
+<div align="center">
+
+> 🥉 **[CityResQ360](https://github.com/MNM-DTU-DZ/CityResQ360-DTUDZ)** — Ứng dụng hỗ trợ ứng phó khẩn cấp đô thị, đạt **Giải Ba** cuộc thi Phần mềm Nguồn mở.
+
+[![CityResQ360 Card](https://github-readme-stats.vercel.app/api/pin/?username=MNM-DTU-DZ&repo=CityResQ360-DTUDZ&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f97316&text_color=e2e8f0)](https://github.com/MNM-DTU-DZ/CityResQ360-DTUDZ)
 
 </div>
 
