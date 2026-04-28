@@ -1,178 +1,181 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=VAN%20NHAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full-Stack%20Developer%20%7C%20Code%20%26%20Coffee%20Enthusiast%20⚡&descAlignY=62&descAlign=50&stroke=ffffff&strokeWidth=1" />
+
 <div align="center">
 
-<!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=IzooBeeee&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Dreamer&descAlignY=55&descAlign=50" />
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=45&lines=%F0%9F%9A%80+I+build+things+that+live+on+the+internet;%F0%9F%94%A5+Turning+ideas+into+reality+%E2%80%94+one+commit+at+a+time;%F0%9F%A7%A0+Clean+code+%7C+Bold+thinking+%7C+No+excuses;%E2%98%95+Powered+by+caffeine+%26+pure+determination" alt="Typing SVG" /></a>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+IzooBeeee+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95%F0%9F%92%BB;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+<br/><br/>
 
-<br/>
+<!-- Avatar + Status badges row -->
+<img src="https://raw.githubusercontent.com/IzooBeeee/IzooBeeee/main/VanNhan.jpg" width="150" style="border-radius: 50%; border: 3px solid #A78BFA;" alt="Van Nhan Avatar" />
 
-<!-- Social badges -->
-[![GitHub followers](https://img.shields.io/github/followers/IzooBeeee?style=for-the-badge&logo=github&color=58A6FF&labelColor=0d1117)](https://github.com/IzooBeeee)
-[![Profile views](https://komarev.com/ghpvc/?username=IzooBeeee&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/IzooBeeee)
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=IzooBeeee&color=A78BFA&style=for-the-badge&label=VISITORS)](https://github.com/IzooBeeee)
+[![GitHub followers](https://img.shields.io/github/followers/IzooBeeee?color=A78BFA&logo=github&style=for-the-badge&label=FOLLOWERS)](https://github.com/IzooBeeee?tab=followers)
+[![Years Badge](https://badges.pufler.dev/years/IzooBeeee?style=for-the-badge&color=A78BFA&logo=github)](https://github.com/IzooBeeee)
 
 </div>
 
 ---
 
-<!-- About Me -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## 🧑‍💻 About Me
+## 👾 Who Am I?
 
-```yaml
-name:       IzooBeeee
-location:   Vietnam 🇻🇳
-role:       Full-Stack Developer
-focus:      Web & Mobile Applications
-mindset:    Ship fast. Learn faster. Break nothing.
-currently:  Building cool stuff 🚀
+> *"Code is poetry. I write epics."*
+
+```typescript
+const VanNhan = {
+  name:     "Nguyễn Văn Nhân",
+  alias:    "IzooBeeee 🐝",
+  based_in: "Việt Nam 🇻🇳",
+  role:     "Full-Stack Developer",
+  mindset:  ["Ship it", "Learn it", "Own it"],
+  
+  currently: {
+    building:  "🍔 FoodBee — Food Delivery App",
+    learning:  "☁️ System Design & Cloud",
+    exploring: "🤖 AI Integration",
+  },
+
+  contact: "vannhan130504@gmail.com",
+  open_to: ["Collaborations", "Cool Projects"],
+};
 ```
 
-- 🔭 &nbsp;Đang xây dựng những thứ **thú vị và có ích**
-- 🌱 &nbsp;Luôn học hỏi những **công nghệ mới nhất**
-- ⚡ &nbsp;Fun fact: Tôi debug bằng **niềm tin và cà phê**
-- 💬 &nbsp;Cứ tự nhiên hỏi tôi về **Web Dev, System Design**
-- 📫 &nbsp;Liên hệ: **[izoo.beee@gmail.com](mailto:izoo.beee@gmail.com)**
+</td>
+<td width="45%" valign="top" align="center">
+
+## 📡 Live Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=IzooBeeee&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=A78BFA&text_color=e2e8f0&ring_color=A78BFA&include_all_commits=true&count_private=true" width="100%" />
+
+<img src="https://streak-stats.demolab.com?user=IzooBeeee&hide_border=true&background=0d0d0d&ring=A78BFA&fire=f97316&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Arsenal — My Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 〔 Languages 〕
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
+![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=f97316)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 〔 Frontend & Mobile 〕
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d0d0d?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=02569B)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### 〔 Backend & APIs 〕
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-0d0d0d?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/Laravel-0d0d0d?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d0d0d?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
 
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 〔 Data & Infrastructure 〕
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=316192)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Language Distribution
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzooBeeee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzooBeeee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzooBeeee&layout=donut&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=e2e8f0&langs_count=8" width="350" />
 </div>
 
-<div align="center">
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IzooBeeee&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
+## 🔥 Contribution Heat Map
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IzooBeeee&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IzooBeeee&bg_color=0d0d0d&color=A78BFA&line=A78BFA&point=f97316&area=true&area_color=A78BFA&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Wall
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IzooBeeee&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IzooBeeee&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((IzooBeeee))
-    🚀 Building
-      FoodBee App
-      Microservices
-    📚 Learning
-      System Design
-      AI & LLMs
-    🤝 Open To
-      Collaborations
-      Freelance Projects
-```
-
----
-
-## 💡 A Random Dev Quote
+## 🌟 Featured Project
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![FoodBee Card](https://github-readme-stats.vercel.app/api/pin/?username=IzooBeeee&repo=FoodBee&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=A78BFA&text_color=e2e8f0)](https://github.com/IzooBeeee)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🐍 My Contributions — Watch the Snake
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/IzooBeeee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IzooBeeee)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izoo.beee@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://IzooBeeee.dev)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IzooBeeee/IzooBeeee/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IzooBeeee/IzooBeeee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IzooBeeee/IzooBeeee/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/IzooBeeee/IzooBeeee/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+</div>
+
+---
+
+## 📬 Find Me Here
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/vannhan130504%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d0d)](mailto:vannhan130504@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0d0d0d?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/IzooBeeee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/IzooBeeee)
 
 <br/>
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+> **💜 If my work helped you, drop a ⭐ — it means the world!**
 
-<sub>⭐ From <a href="https://github.com/IzooBeeee">IzooBeeee</a> — crafted with ❤️ & ☕</sub>
+</div>
 
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The+best+error+message+is+the+one+that+never+shows+up.&author=Thomas+Fuchs" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
+
+<div align="center">
+  <sub>✦ Crafted with 💜 & ☕ by <a href="https://github.com/IzooBeeee"><strong>Van Nhan</strong></a> ✦</sub>
 </div>
