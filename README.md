@@ -1,20 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=VAN%20NHAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full-Stack%20Developer%20%7C%20Code%20%26%20Coffee%20Enthusiast%20⚡&descAlignY=62&descAlign=50&stroke=ffffff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:a78bfa&height=220&section=header&text=VAN%20NHAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20%7C%20Builder%20%7C%20Dreamer%20⚡&descAlignY=58&descAlign=50" />
 
 <div align="center">
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=45&lines=%F0%9F%9A%80+I+build+things+that+live+on+the+internet;%F0%9F%94%A5+Turning+ideas+into+reality+%E2%80%94+one+commit+at+a+time;%F0%9F%A7%A0+Clean+code+%7C+Bold+thinking+%7C+No+excuses;%E2%98%95+Powered+by+caffeine+%26+pure+determination" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+I+build+things+that+live+on+the+internet;%F0%9F%94%A5+Turning+ideas+into+reality+%E2%80%94+one+commit+at+a+time;%F0%9F%A7%A0+Clean+code+%7C+Bold+thinking+%7C+No+excuses;%E2%98%95+Powered+by+caffeine+%26+pure+determination" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<!-- Avatar + Status badges row -->
-<img src="https://raw.githubusercontent.com/IzooBeeee/IzooBeeee/main/VanNhan.jpg" width="150" style="border-radius: 50%; border: 3px solid #A78BFA;" alt="Van Nhan Avatar" />
+<img src="https://raw.githubusercontent.com/IzooBeeee/IzooBeeee/main/VanNhan.jpg" width="140" alt="Van Nhan" />
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=IzooBeeee&color=A78BFA&style=for-the-badge&label=VISITORS)](https://github.com/IzooBeeee)
-[![GitHub followers](https://img.shields.io/github/followers/IzooBeeee?color=A78BFA&logo=github&style=for-the-badge&label=FOLLOWERS)](https://github.com/IzooBeeee?tab=followers)
-[![Years Badge](https://badges.pufler.dev/years/IzooBeeee?style=for-the-badge&color=A78BFA&logo=github)](https://github.com/IzooBeeee)
+[![Profile Views](https://komarev.com/ghpvc/?username=IzooBeeee&color=7c3aed&style=for-the-badge&label=VISITORS)](https://github.com/IzooBeeee)
+[![GitHub followers](https://img.shields.io/github/followers/IzooBeeee?color=7c3aed&logo=github&style=for-the-badge&label=FOLLOWERS)](https://github.com/IzooBeeee?tab=followers)
 
 </div>
 
@@ -35,7 +32,7 @@ const VanNhan = {
   based_in: "Việt Nam 🇻🇳",
   role:     "Full-Stack Developer",
   mindset:  ["Ship it", "Learn it", "Own it"],
-  
+
   currently: {
     building:  "🍔 FoodBee — Food Delivery App",
     learning:  "☁️ System Design & Cloud",
@@ -52,9 +49,9 @@ const VanNhan = {
 
 ## 📡 Live Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=IzooBeeee&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=A78BFA&text_color=e2e8f0&ring_color=A78BFA&include_all_commits=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=IzooBeeee&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=7c3aed" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=IzooBeeee&hide_border=true&background=0d0d0d&ring=A78BFA&fire=f97316&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=IzooBeeee&hide_border=true&background=0d0d0d&ring=7c3aed&fire=f97316&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="100%" />
 
 </td>
 </tr>
@@ -103,7 +100,7 @@ const VanNhan = {
 ## 📊 Language Distribution
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzooBeeee&layout=donut&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=e2e8f0&langs_count=8" width="350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzooBeeee&layout=donut&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="340" />
 </div>
 
 ---
@@ -112,7 +109,7 @@ const VanNhan = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IzooBeeee&bg_color=0d0d0d&color=A78BFA&line=A78BFA&point=f97316&area=true&area_color=A78BFA&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IzooBeeee&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -128,41 +125,17 @@ const VanNhan = {
 
 ---
 
-## 🌟 Featured Project
-
-<div align="center">
-
-[![FoodBee Card](https://github-readme-stats.vercel.app/api/pin/?username=IzooBeeee&repo=FoodBee&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=A78BFA&text_color=e2e8f0)](https://github.com/IzooBeeee)
-
-</div>
-
----
-
-## 🐍 My Contributions — Watch the Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IzooBeeee/IzooBeeee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IzooBeeee/IzooBeeee/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/IzooBeeee/IzooBeeee/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
 ## 📬 Find Me Here
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/vannhan130504%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d0d)](mailto:vannhan130504@gmail.com)
+[![Gmail](https://img.shields.io/badge/vannhan130504%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vannhan130504@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-0d0d0d?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/IzooBeeee)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/IzooBeeee)
 
 <br/>
 
-> **💜 If my work helped you, drop a ⭐ — it means the world!**
+> **💜 If my work helped you — drop a ⭐, it means everything!**
 
 </div>
 
@@ -170,12 +143,14 @@ const VanNhan = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The+best+error+message+is+the+one+that+never+shows+up.&author=Thomas+Fuchs" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:7c3aed,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <sub>✦ Crafted with 💜 & ☕ by <a href="https://github.com/IzooBeeee"><strong>Van Nhan</strong></a> ✦</sub>
+  <sub>✦ Crafted with 💜 &amp; ☕ by <a href="https://github.com/IzooBeeee"><strong>Van Nhan</strong></a> ✦</sub>
 </div>
